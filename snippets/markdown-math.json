@@ -1,0 +1,4 @@
+{
+  "Math":{"prefix":"m","body":["$${0}$"],"description":"Insert Inline Math"},
+  "Math Block":{"prefix":"mb","body":["$$", "${0}", "$$"]}
+}

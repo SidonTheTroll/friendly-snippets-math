@@ -1,0 +1,17 @@
+{
+    "name": "friendly-snippets-math",
+    "engines": {
+        "vscode": "^1.11.0",
+        "neovim": "^0.5"
+        
+    },
+    "contributes": {
+        "snippets": [
+            {
+                "language": ["markdown"],
+                "path": ["./snippets/markdown-math.json","./snippets/alphabets.json"]
+            }
+        ]
+    }
+}
+
