@@ -8,8 +8,12 @@
     "contributes": {
         "snippets": [
             {
-                "language": ["markdown"],
-                "path": ["./snippets/markdown-math.json","./snippets/alphabets.json"]
+                "language": "markdown",
+                "path": "./snippets/markdown-math.json"
+            },
+            {
+                "language": "markdown",
+                "path": "./snippets/alphabets.json"
             }
         ]
     }
