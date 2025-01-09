@@ -7,7 +7,7 @@ This is a derivative work of **[Friendly Snippets](https://github.com/rafamadriz
 Use the plugin manager of choice, eg., 
 
 ### With Lazy.nvim
-`{ "sidonthetroll/friendly-snippets-math" }`
+`{ "sidonthetroll/friendly-snippets-math", lazy = false }`
 
 ### With Packer
 `use "sidonthetroll/friendly-snippets-math"` 
