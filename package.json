@@ -14,6 +14,10 @@
             {
                 "language": "markdown",
                 "path": "./snippets/alphabets.json"
+            },
+            {
+                "language": "markdown",
+                "path": "./snippets/accents.json"
             }
         ]
     }
