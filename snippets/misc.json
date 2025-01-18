@@ -1,0 +1,233 @@
+{
+  "aleph": {
+    "prefix": "\\aleph",
+    "description": ["\\aleph"],
+    "body": "Insert aleph"
+  },
+  "angle": {
+    "prefix": "\\angle",
+    "description": ["\\angle"],
+    "body": "Insert angle"
+  },
+  "backslash": {
+    "prefix": "\\backslash",
+    "description": ["\\backslash"],
+    "body": "Insert backslash"
+  },
+  "bigstar": {
+    "prefix": "\\bigstar",
+    "description": ["\\bigstar"],
+    "body": "Insert bigstar"
+  },
+  "blacksquare": {
+    "prefix": "\\blacksquare",
+    "description": ["\\blacksquare"],
+    "body": "Insert blacksquare"
+  },
+  "bot": {
+    "prefix": "\\bot",
+    "description": ["\\bot"],
+    "body": "Insert bot"
+  },
+  "Box": {
+    "prefix": "\\Box",
+    "description": ["\\Box"],
+    "body": "Insert Box"
+  },
+  "checkmark": {
+    "prefix": "\\checkmark",
+    "description": ["\\checkmark"],
+    "body": "Insert checkmark"
+  },
+  "clubsuit": {
+    "prefix": "\\clubsuit",
+    "description": ["\\clubsuit"],
+    "body": "Insert clubsuit"
+  },
+  "copyright": {
+    "prefix": "\\copyright",
+    "description": ["\\copyright"],
+    "body": "Insert copyright symbol"
+  },
+  "cup": {
+    "prefix": "\\cup",
+    "description": ["\\cup"],
+    "body": "Insert cup"
+  },
+  "dashv": {
+    "prefix": "\\dashv",
+    "description": ["\\dashv"],
+    "body": "Insert dashv"
+  },
+  "Diamond": {
+    "prefix": "\\Diamond",
+    "description": ["\\Diamond"],
+    "body": "Insert Diamond"
+  },
+  "diamondsuit": {
+    "prefix": "\\diamondsuit",
+    "description": ["\\diamondsuit"],
+    "body": "Insert diamondsuit"
+  },
+  "ell": {
+    "prefix": "\\ell",
+    "description": ["\\ell"],
+    "body": "Insert ell"
+  },
+  "emptyset": {
+    "prefix": "\\emptyset",
+    "description": ["\\emptyset"],
+    "body": "Insert emptyset"
+  },
+  "exists": {
+    "prefix": "\\exists",
+    "description": ["\\exists"],
+    "body": "Insert exists"
+  },
+  "flat": {
+    "prefix": "\\flat",
+    "description": ["\\flat"],
+    "body": "Insert flat"
+  },
+  "forall": {
+    "prefix": "\\forall",
+    "description": ["\\forall"],
+    "body": "Insert forall"
+  },
+  "hbar": {
+    "prefix": "\\hbar",
+    "description": ["\\hbar"],
+    "body": "Insert hbar"
+  },
+  "heartsuit": {
+    "prefix": "\\heartsuit",
+    "description": ["\\heartsuit"],
+    "body": "Insert heartsuit"
+  },
+  "Im": {
+    "prefix": "\\Im",
+    "description": ["\\Im"],
+    "body": "Insert Im"
+  },
+  "implies": {
+    "prefix": "\\implies",
+    "description": ["\\implies"],
+    "body": "Insert implies"
+  },
+  "in": {
+    "prefix": "\\in",
+    "description": ["\\in"],
+    "body": "Insert in"
+  },
+  "infty": {
+    "prefix": "\\infty",
+    "description": ["\\infty"],
+    "body": "Insert infinity"
+  },
+  "Join": {
+    "prefix": "\\Join",
+    "description": ["\\Join"],
+    "body": "Insert Join"
+  },
+  "mathbb{R}": {
+    "prefix": "\\mathbb",
+    "description": ["\\mathbb{${0}}"],
+    "body": "Insert mathbb"
+  },
+  "mho": {
+    "prefix": "\\mho",
+    "description": ["\\mho"],
+    "body": "Insert mho"
+  },
+  "nabla": {
+    "prefix": "\\nabla",
+    "description": ["\\nabla"],
+    "body": "Insert nabla"
+  },
+  "natural": {
+    "prefix": "\\natural",
+    "description": ["\\natural"],
+    "body": "Insert natural"
+  },
+  "neg": {
+    "prefix": "\\neg",
+    "description": ["\\neg"],
+    "body": "Insert neg"
+  },
+  "P": {
+    "prefix": "\\P",
+    "description": ["\\P"],
+    "body": "Insert P"
+  },
+  "partial": {
+    "prefix": "\\partial",
+    "description": ["\\partial"],
+    "body": "Insert partial"
+  },
+  "pounds": {
+    "prefix": "\\pounds",
+    "description": ["\\pounds"],
+    "body": "Insert pounds"
+  },
+  "prime": {
+    "prefix": "\\prime",
+    "description": ["\\prime"],
+    "body": "Insert prime"
+  },
+  "Re": {
+    "prefix": "\\Re",
+    "description": ["\\Re"],
+    "body": "Insert Re"
+  },
+  "S": {
+    "prefix": "\\S",
+    "description": ["\\S"],
+    "body": "Insert S"
+  },
+  "sharp": {
+    "prefix": "\\sharp",
+    "description": ["\\sharp"],
+    "body": "Insert sharp"
+  },
+  "spadesuit": {
+    "prefix": "\\spadesuit",
+    "description": ["\\spadesuit"],
+    "body": "Insert spadesuit"
+  },
+  "square": {
+    "prefix": "\\square",
+    "description": ["\\square"],
+    "body": "Insert square"
+  },
+  "surd": {
+    "prefix": "\\surd",
+    "description": ["\\surd"],
+    "body": "Insert surd"
+  },
+  "top": {
+    "prefix": "\\top",
+    "description": ["\\top"],
+    "body": "Insert top"
+  },
+  "triangle": {
+    "prefix": "\\triangle",
+    "description": ["\\triangle"],
+    "body": "Insert triangle"
+  },
+  "vdash": {
+    "prefix": "\\vdash",
+    "description": ["\\vdash"],
+    "body": "Insert vdash"
+  },
+  "vDash": {
+    "prefix": "\\vDash",
+    "description": ["\\vDash"],
+    "body": "Insert vDash"
+  },
+  "wp": {
+    "prefix": "\\wp",
+    "description": ["\\wp"],
+    "body": "Insert wp"
+  }
+}
+

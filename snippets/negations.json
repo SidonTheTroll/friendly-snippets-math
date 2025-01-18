@@ -1,0 +1,182 @@
+{
+  "downarrow":{
+    "prefix": "\\downarrow",
+    "description": "Insert downarrow",
+    "body": ["\\downarrow${0}"]
+  },
+  "Downarrow":{
+    "prefix": "\\Downarrow",
+    "description": "Insert Downarrow",
+    "body": ["\\Downarrow${0}"]
+  },
+  "gets":{
+    "prefix": "\\gets",
+    "description": "Insert gets",
+    "body": ["\\gets${0}"]
+  },
+  "hookleftarrow":{
+    "prefix": "\\hookleftarrow",
+    "description": "Insert hookleftarrow",
+    "body": ["\\hookleftarrow${0}"]
+  },
+  "hookrightarrow":{
+    "prefix": "\\hookrightarrow",
+    "description": "Insert hookrightarrow",
+    "body": ["\\hookrightarrow${0}"]
+  },
+  "leadsto":{
+    "prefix": "\\leadsto",
+    "description": "Insert leadsto",
+    "body": ["\\leadsto${0}"]
+  },
+  "leftarrow":{
+    "prefix": "\\leftarrow",
+    "description": "Insert leftarrow",
+    "body": ["\\leftarrow"]
+  },
+  "Leftarrow":{
+    "prefix": "\\Leftarrow",
+    "description": "Insert Leftarrow",
+    "body": ["\\Leftarrow"]
+  },
+  "leftharpoonup":{
+    "prefix": "\\leftharpoonup",
+    "description": "Insert leftharpoonup",
+    "body": ["\\leftharpoonup"]
+  },
+  "leftrightarrow":{
+    "prefix": "\\leftrightarrow",
+    "description": "Insert leftrightarrow",
+    "body": ["\\leftrightarrow"]
+  },
+  "Leftrightarrow":{
+    "prefix": "\\Leftrightarrow",
+    "description": "Insert Leftrightarrow",
+    "body": ["\\Leftrightarrow"]
+  },
+  "longleftarrow":{
+    "prefix": "\\longleftarrow",
+    "description": "Insert longleftarrow",
+    "body": ["\\longleftarrow"]
+  },
+  "Longleftarrow":{
+    "prefix": "\\Longleftarrow",
+    "description": "Insert Longleftarrow",
+    "body": ["\\Longleftarrow"]
+  },
+  "longleftrightarrow":{
+    "prefix": "\\longleftrightarrow",
+    "description": "Insert longleftrightarrow",
+    "body": ["\\longleftrightarrow"]
+  },
+  "Longleftrightarrow":{
+    "prefix": "\\Longleftrightarrow",
+    "description": "Insert Longleftrightarrow",
+    "body": ["\\Longleftrightarrow"]
+  },
+  "longmapsto":{
+    "prefix": "\\longmapsto",
+    "description": "Insert longmapsto",
+    "body": ["\\longmapsto"]
+  },
+  "longrightarrow":{
+    "prefix": "\\longrightarrow",
+    "description": "Insert longrightarrow",
+    "body": ["\\longrightarrow"]
+  },
+  "Longrightarrow":{
+    "prefix": "\\Longrightarrow",
+    "description": "Insert Longrightarrow",
+    "body": ["\\Longrightarrow"]
+  },
+  "mapsto":{
+    "prefix": "\\mapsto",
+    "description": "Insert mapsto",
+    "body": ["\\mapsto"]
+  },
+  "nearrow":{
+    "prefix": "\\nearrow",
+    "description": "Insert nearrow",
+    "body": ["\\nearrow"]
+  },
+  "nwarrow":{
+    "prefix": "\\nwarrow",
+    "description": "Insert nwarrow",
+    "body": ["\\nwarrow"]
+  },
+  "overleftarrow":{
+    "prefix": "\\overleftarrow",
+    "description": "Insert overleftarrow",
+    "body": ["\\overleftarrow{${0}}"]
+  },
+  "overleftrightarrow":{
+    "prefix": "\\overleftrightarrow",
+    "description": "Insert overleftrightarrow",
+    "body": ["\\overleftrightarrow{${0}}"]
+  },
+  "overrightarrow":{
+    "prefix": "\\overrightarrow",
+    "description": "Insert overrightarrow",
+    "body": ["\\overrightarrow${0}"]
+  },
+  "rightarrow":{
+    "prefix": "\\rightarrow",
+    "description": "Insert rightarrow",
+    "body": ["\\rightarrow${0}"]
+  },
+  "Rightarrow":{
+    "prefix": "\\Rightarrow",
+    "description": "Insert Rightarrow",
+    "body": ["\\Rightarrow${0}"]
+  },
+  "rightharpoondown":{
+    "prefix": "\\rightharpoondown",
+    "description": "Insert rightharpoondown",
+    "body": ["\\rightharpoondown${0}"]
+  },
+  "rightharpoonup":{
+    "prefix": "\\rightharpoonup",
+    "description": "Insert rightharpoonup",
+    "body": ["\\rightharpoonup${0}"]
+  },
+  "rightleftharpoons":{
+    "prefix": "\\rightleftharpoons",
+    "description": "Insert rightleftharpoons",
+    "body": ["\\rightleftharpoons${0}"]
+  },
+  "searrow":{
+    "prefix": "\\searrow",
+    "description": "Insert searrow",
+    "body": ["\\searrow${0}"]
+  },
+  "swarrow":{
+    "prefix": "\\swarrow",
+    "description": "Insert swarrow",
+    "body": ["\\swarrow${0}"]
+  },
+  "to":{
+    "prefix": "\\to",
+    "description": "Insert to (arrow)",
+    "body": ["\\to${0}"]
+  },
+  "uparrow":{
+    "prefix": "\\uparrow",
+    "description": "Insert uparrow",
+    "body": ["\\uparrow${0}"]
+  },
+  "Uparrow":{
+    "prefix": "\\Uparrow",
+    "description": "Insert Uparrow",
+    "body": ["\\Uparrow${0}"]
+  },
+  "updownarrow":{
+    "prefix": "\\updownarrow",
+    "description": "Insert updownarrow",
+    "body": ["\\updownarrow${0}"]
+  },
+  "Updownarrow":{
+    "prefix": "\\Updownarrow",
+    "description": "Insert Updownarrow",
+    "body": ["\\Updownarrow${0}"]
+  }
+}
