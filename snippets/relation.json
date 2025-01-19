@@ -1,0 +1,182 @@
+{
+    "approx": {
+        "prefix": "\\approx",
+        "description": "Insert approximately equal to (≈)",
+        "body": ["\\approx"]
+    },
+    "asymp": {
+        "prefix": "\\asymp",
+        "description": "Insert asymptotically equal to (≍)",
+        "body": ["\\asymp"]
+    },
+    "bowtie": {
+        "prefix": "\\bowtie",
+        "description": "Insert bowtie relation (⋈)",
+        "body": ["\\bowtie"]
+    },
+    "bumpeq": {
+        "prefix": "\\bumpeq",
+        "description": "Insert Bumpeq relation (≏)",
+        "body": ["\\bumpeq"]
+    },
+    "dashv": {
+        "prefix": "\\dashv",
+        "description": "Insert dashv (⊣)",
+        "body": ["\\dashv"]
+    },
+    "doteq": {
+        "prefix": "\\doteq",
+        "description": "Insert dotted equals (≐)",
+        "body": ["\\doteq"]
+    },
+    "equiv": {
+        "prefix": "\\equiv",
+        "description": "Insert equivalent to (≡)",
+        "body": ["\\equiv"]
+    },
+    "frown": {
+        "prefix": "\\frown",
+        "description": "Insert frown relation (⌢)",
+        "body": ["\\frown"]
+    },
+    "ge": {
+        "prefix": "\\ge",
+        "description": "Insert greater than or equal to (≥)",
+        "body": ["\\ge"]
+    },
+    "gg": {
+        "prefix": "\\gg",
+        "description": "Insert much greater than (≫)",
+        "body": ["\\gg"]
+    },
+    "in": {
+        "prefix": "\\in",
+        "description": "Insert element of (∈)",
+        "body": ["\\in"]
+    },
+    "le": {
+        "prefix": "\\le",
+        "description": "Insert less than or equal to (≤)",
+        "body": ["\\le"]
+    },
+    "ll": {
+        "prefix": "\\ll",
+        "description": "Insert much less than (≪)",
+        "body": ["\\ll"]
+    },
+    "mid": {
+        "prefix": "\\mid",
+        "description": "Insert mid relation (∣)",
+        "body": ["\\mid"]
+    },
+    "models": {
+        "prefix": "\\models",
+        "description": "Insert models relation (⊨)",
+        "body": ["\\models"]
+    },
+    "neq": {
+        "prefix": "\\neq",
+        "description": "Insert not equal to (≠)",
+        "body": ["\\neq"]
+    },
+    "ni": {
+        "prefix": "\\ni",
+        "description": "Insert contains as member (∋)",
+        "body": ["\\ni"]
+    },
+    "parallel": {
+        "prefix": "\\parallel",
+        "description": "Insert parallel to (∥)",
+        "body": ["\\parallel"]
+    },
+    "perp": {
+        "prefix": "\\perp",
+        "description": "Insert perpendicular to (⊥)",
+        "body": ["\\perp"]
+    },
+    "prec": {
+        "prefix": "\\prec",
+        "description": "Insert precedes (≺)",
+        "body": ["\\prec"]
+    },
+    "preceq": {
+        "prefix": "\\preceq",
+        "description": "Insert precedes or equal to (≼)",
+        "body": ["\\preceq"]
+    },
+    "propto": {
+        "prefix": "\\propto",
+        "description": "Insert proportional to (∝)",
+        "body": ["\\propto"]
+    },
+    "sim": {
+        "prefix": "\\sim",
+        "description": "Insert similar to (∼)",
+        "body": ["\\sim"]
+    },
+    "simeq": {
+        "prefix": "\\simeq",
+        "description": "Insert similar or equal to (≃)",
+        "body": ["\\simeq"]
+    },
+    "smile": {
+        "prefix": "\\smile",
+        "description": "Insert smile relation (⌣)",
+        "body": ["\\smile"]
+    },
+    "sqsubset": {
+        "prefix": "\\sqsubset",
+        "description": "Insert square subset of (⊏)",
+        "body": ["\\sqsubset"]
+    },
+    "sqsubseteq": {
+        "prefix": "\\sqsubseteq",
+        "description": "Insert square subset or equal to (⊑)",
+        "body": ["\\sqsubseteq"]
+    },
+    "sqsupset": {
+        "prefix": "\\sqsupset",
+        "description": "Insert square superset of (⊐)",
+        "body": ["\\sqsupset"]
+    },
+    "sqsupseteq": {
+        "prefix": "\\sqsupseteq",
+        "description": "Insert square superset or equal to (⊒)",
+        "body": ["\\sqsupseteq"]
+    },
+    "subset": {
+        "prefix": "\\subset",
+        "description": "Insert subset of (⊂)",
+        "body": ["\\subset"]
+    },
+    "subseteq": {
+        "prefix": "\\subseteq",
+        "description": "Insert subset or equal to (⊆)",
+        "body": ["\\subseteq"]
+    },
+    "succ": {
+        "prefix": "\\succ",
+        "description": "Insert succeeds (≻)",
+        "body": ["\\succ"]
+    },
+    "succeq": {
+        "prefix": "\\succeq",
+        "description": "Insert succeeds or equal to (≽)",
+        "body": ["\\succeq"]
+    },
+    "supseteq": {
+        "prefix": "\\supseteq",
+        "description": "Insert superset or equal to (⊇)",
+        "body": ["\\supseteq"]
+    },
+    "vdash": {
+        "prefix": "\\vdash",
+        "description": "Insert vertical dash (⊢)",
+        "body": ["\\vdash"]
+    },
+    "oslash": {
+        "prefix": "\\oslash",
+        "description": "Insert slash inside circle (⊘)",
+        "body": ["\\oslash"]
+    }
+}

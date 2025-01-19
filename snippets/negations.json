@@ -1,182 +1,112 @@
 {
-  "downarrow":{
-    "prefix": "\\downarrow",
-    "description": "Insert downarrow",
-    "body": ["\\downarrow${0}"]
+  "gneq": {
+    "prefix": "\\gneq",
+    "description": "Insert gneq",
+    "body": ["\\gneq"]
   },
-  "Downarrow":{
-    "prefix": "\\Downarrow",
-    "description": "Insert Downarrow",
-    "body": ["\\Downarrow${0}"]
+  "gneqq": {
+    "prefix": "\\gneqq",
+    "description": "Insert gneqq",
+    "body": ["\\gneqq"]
   },
-  "gets":{
-    "prefix": "\\gets",
-    "description": "Insert gets",
-    "body": ["\\gets${0}"]
+  "lneq": {
+    "prefix": "\\lneq",
+    "description": "Insert lneq",
+    "body": ["\\lneq"]
   },
-  "hookleftarrow":{
-    "prefix": "\\hookleftarrow",
-    "description": "Insert hookleftarrow",
-    "body": ["\\hookleftarrow${0}"]
+  "lneqq": {
+    "prefix": "\\lneqq",
+    "description": "Insert lneqq",
+    "body": ["\\lneqq"]
   },
-  "hookrightarrow":{
-    "prefix": "\\hookrightarrow",
-    "description": "Insert hookrightarrow",
-    "body": ["\\hookrightarrow${0}"]
+  "lnsim": {
+    "prefix": "\\lnsim",
+    "description": "Insert lnsim",
+    "body": ["\\lnsim"]
   },
-  "leadsto":{
-    "prefix": "\\leadsto",
-    "description": "Insert leadsto",
-    "body": ["\\leadsto${0}"]
+  "ncong": {
+    "prefix": "\\ncong",
+    "description": "Insert ncong",
+    "body": ["\\ncong"]
   },
-  "leftarrow":{
-    "prefix": "\\leftarrow",
-    "description": "Insert leftarrow",
-    "body": ["\\leftarrow"]
+  "ngtr": {
+    "prefix": "\\ngtr",
+    "description": "Insert ngtr",
+    "body": ["\\ngtr"]
   },
-  "Leftarrow":{
-    "prefix": "\\Leftarrow",
-    "description": "Insert Leftarrow",
-    "body": ["\\Leftarrow"]
+  "nleq": {
+    "prefix": "\\nleq",
+    "description": "Insert nleq",
+    "body": ["\\nleq"]
   },
-  "leftharpoonup":{
-    "prefix": "\\leftharpoonup",
-    "description": "Insert leftharpoonup",
-    "body": ["\\leftharpoonup"]
+  "nless": {
+    "prefix": "\\nless",
+    "description": "Insert nless",
+    "body": ["\\nless"]
   },
-  "leftrightarrow":{
-    "prefix": "\\leftrightarrow",
-    "description": "Insert leftrightarrow",
-    "body": ["\\leftrightarrow"]
+  "nmid": {
+    "prefix": "\\nmid",
+    "description": "Insert nmid",
+    "body": ["\\nmid"]
   },
-  "Leftrightarrow":{
-    "prefix": "\\Leftrightarrow",
-    "description": "Insert Leftrightarrow",
-    "body": ["\\Leftrightarrow"]
+  "notapprox": {
+    "prefix": "\\not\\approx",
+    "description": "Insert not approx",
+    "body": ["\\not\\approx"]
   },
-  "longleftarrow":{
-    "prefix": "\\longleftarrow",
-    "description": "Insert longleftarrow",
-    "body": ["\\longleftarrow"]
+  "notcong": {
+    "prefix": "\\not\\cong",
+    "description": "Insert not cong",
+    "body": ["\\not\\cong"]
   },
-  "Longleftarrow":{
-    "prefix": "\\Longleftarrow",
-    "description": "Insert Longleftarrow",
-    "body": ["\\Longleftarrow"]
+  "notequiv": {
+    "prefix": "\\not\\equiv",
+    "description": "Insert not equiv",
+    "body": ["\\not\\equiv"]
   },
-  "longleftrightarrow":{
-    "prefix": "\\longleftrightarrow",
-    "description": "Insert longleftrightarrow",
-    "body": ["\\longleftrightarrow"]
+  "notge": {
+    "prefix": "\\not\\ge",
+    "description": "Insert not greater than or equal to",
+    "body": ["\\not\\ge"]
   },
-  "Longleftrightarrow":{
-    "prefix": "\\Longleftrightarrow",
-    "description": "Insert Longleftrightarrow",
-    "body": ["\\Longleftrightarrow"]
+  "notle": {
+    "prefix": "\\not\\le",
+    "description": "Insert not less than or equal to",
+    "body": ["\\not\\le"]
   },
-  "longmapsto":{
-    "prefix": "\\longmapsto",
-    "description": "Insert longmapsto",
-    "body": ["\\longmapsto"]
+  "notparallel": {
+    "prefix": "\\not\\parallel",
+    "description": "Insert not parallel",
+    "body": ["\\not\\parallel"]
   },
-  "longrightarrow":{
-    "prefix": "\\longrightarrow",
-    "description": "Insert longrightarrow",
-    "body": ["\\longrightarrow"]
+  "notsim": {
+    "prefix": "\\not\\sim",
+    "description": "Insert not similar to",
+    "body": ["\\not\\sim"]
   },
-  "Longrightarrow":{
-    "prefix": "\\Longrightarrow",
-    "description": "Insert Longrightarrow",
-    "body": ["\\Longrightarrow"]
+  "not<": {
+    "prefix": "\\not<",
+    "description": "Insert not less than",
+    "body": ["\\not<"]
   },
-  "mapsto":{
-    "prefix": "\\mapsto",
-    "description": "Insert mapsto",
-    "body": ["\\mapsto"]
+  "not=": {
+    "prefix": "\\not=",
+    "description": "Insert not equal",
+    "body": ["\\not="]
   },
-  "nearrow":{
-    "prefix": "\\nearrow",
-    "description": "Insert nearrow",
-    "body": ["\\nearrow"]
+  "not>": {
+    "prefix": "\\not>",
+    "description": "Insert not greater than",
+    "body": ["\\not>"]
   },
-  "nwarrow":{
-    "prefix": "\\nwarrow",
-    "description": "Insert nwarrow",
-    "body": ["\\nwarrow"]
+  "nparallel": {
+    "prefix": "\\nparallel",
+    "description": "Insert nparallel",
+    "body": ["\\nparallel"]
   },
-  "overleftarrow":{
-    "prefix": "\\overleftarrow",
-    "description": "Insert overleftarrow",
-    "body": ["\\overleftarrow{${0}}"]
-  },
-  "overleftrightarrow":{
-    "prefix": "\\overleftrightarrow",
-    "description": "Insert overleftrightarrow",
-    "body": ["\\overleftrightarrow{${0}}"]
-  },
-  "overrightarrow":{
-    "prefix": "\\overrightarrow",
-    "description": "Insert overrightarrow",
-    "body": ["\\overrightarrow${0}"]
-  },
-  "rightarrow":{
-    "prefix": "\\rightarrow",
-    "description": "Insert rightarrow",
-    "body": ["\\rightarrow${0}"]
-  },
-  "Rightarrow":{
-    "prefix": "\\Rightarrow",
-    "description": "Insert Rightarrow",
-    "body": ["\\Rightarrow${0}"]
-  },
-  "rightharpoondown":{
-    "prefix": "\\rightharpoondown",
-    "description": "Insert rightharpoondown",
-    "body": ["\\rightharpoondown${0}"]
-  },
-  "rightharpoonup":{
-    "prefix": "\\rightharpoonup",
-    "description": "Insert rightharpoonup",
-    "body": ["\\rightharpoonup${0}"]
-  },
-  "rightleftharpoons":{
-    "prefix": "\\rightleftharpoons",
-    "description": "Insert rightleftharpoons",
-    "body": ["\\rightleftharpoons${0}"]
-  },
-  "searrow":{
-    "prefix": "\\searrow",
-    "description": "Insert searrow",
-    "body": ["\\searrow${0}"]
-  },
-  "swarrow":{
-    "prefix": "\\swarrow",
-    "description": "Insert swarrow",
-    "body": ["\\swarrow${0}"]
-  },
-  "to":{
-    "prefix": "\\to",
-    "description": "Insert to (arrow)",
-    "body": ["\\to${0}"]
-  },
-  "uparrow":{
-    "prefix": "\\uparrow",
-    "description": "Insert uparrow",
-    "body": ["\\uparrow${0}"]
-  },
-  "Uparrow":{
-    "prefix": "\\Uparrow",
-    "description": "Insert Uparrow",
-    "body": ["\\Uparrow${0}"]
-  },
-  "updownarrow":{
-    "prefix": "\\updownarrow",
-    "description": "Insert updownarrow",
-    "body": ["\\updownarrow${0}"]
-  },
-  "Updownarrow":{
-    "prefix": "\\Updownarrow",
-    "description": "Insert Updownarrow",
-    "body": ["\\Updownarrow${0}"]
+  "nsim": {
+    "prefix": "\\nsim",
+    "description": "Insert nsim",
+    "body": ["\\nsim"]
   }
 }

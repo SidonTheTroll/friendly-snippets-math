@@ -1,0 +1,227 @@
+{
+    "amalg": {
+        "prefix": "\\amalg",
+        "description": "Insert amalgamation (⨿)",
+        "body": ["\\amalg"]
+    },
+    "ast": {
+        "prefix": "\\ast",
+        "description": "Insert asterisk (∗)",
+        "body": ["\\ast"]
+    },
+    "bigcirc": {
+        "prefix": "\\bigcirc",
+        "description": "Insert big circle (◯)",
+        "body": ["\\bigcirc"]
+    },
+    "bigtriangledown": {
+        "prefix": "\\bigtriangledown",
+        "description": "Insert big triangle down (▽)",
+        "body": ["\\bigtriangledown"]
+    },
+    "bigtriangleup": {
+        "prefix": "\\bigtriangleup",
+        "description": "Insert big triangle up (△)",
+        "body": ["\\bigtriangleup"]
+    },
+    "Box": {
+        "prefix": "\\Box",
+        "description": "Insert Box (□)",
+        "body": ["\\Box"]
+    },
+    "bullet": {
+        "prefix": "\\bullet",
+        "description": "Insert bullet (∙)",
+        "body": ["\\bullet"]
+    },
+    "cap": {
+        "prefix": "\\cap",
+        "description": "Insert cap or intersection (∩)",
+        "body": ["\\cap"]
+    },
+    "cdot": {
+        "prefix": "\\cdot",
+        "description": "Insert cdot",
+        "body": ["\\cdot"]
+    },
+    "circ": {
+        "prefix": "\\circ",
+        "description": "Insert circle (∘)",
+        "body": ["\\circ"]
+    },
+    "cup": {
+        "prefix": "\\cup",
+        "description": "Insert cup or union sign(∪)",
+        "body": ["\\cup"]
+    },
+    "dagger": {
+        "prefix": "\\dagger",
+        "description": "Insert dagger (†)",
+        "body": ["\\dagger"]
+    },
+    "ddagger": {
+        "prefix": "\\ddagger",
+        "description": "Insert double dagger (‡)",
+        "body": ["\\ddagger"]
+    },
+    "diamond": {
+        "prefix": "\\diamond",
+        "description": "Insert diamond (⋄)",
+        "body": ["\\diamond"]
+    },
+    "Diamond": {
+        "prefix": "\\Diamond",
+        "description": "Insert Diamond (◊)",
+        "body": ["\\Diamond"]
+    },
+    "div": {
+        "prefix": "\\div",
+        "description": "Insert division (÷)",
+        "body": ["\\div"]
+    },
+    "lhd": {
+        "prefix": "\\lhd",
+        "description": "Insert left heading triangle (⊲)",
+        "body": ["\\lhd"]
+    },
+    "mp": {
+        "prefix": "\\mp",
+        "description": "Insert minus plus (∓)",
+        "body": ["\\mp"]
+    },
+    "odot": {
+        "prefix": "\\odot",
+        "description": "Insert dot inside circle (⊙)",
+        "body": ["\\odot"]
+    },
+    "ominus": {
+        "prefix": "\\ominus",
+        "description": "Insert minus inside circle (⊖)",
+        "body": ["\\ominus"]
+    },
+    "oplus": {
+        "prefix": "\\oplus",
+        "description": "Insert plus inside circle (⊕)",
+        "body": ["\\oplus"]
+    },
+    "oslash": {
+        "prefix": "\\oslash",
+        "description": "Insert slash inside circle (⊘)",
+        "body": ["\\oslash"]
+    },
+    "otimes": {
+        "prefix": "\\otimes",
+        "description": "Insert times inside circle (⊗)",
+        "body": ["\\otimes"]
+    },
+    "pm": {
+        "prefix": "\\pm",
+        "description": "Insert plus minus (±)",
+        "body": ["\\pm"]
+    },
+    "rhd": {
+        "prefix": "\\rhd",
+        "description": "Insert right heading triangle(⊳)",
+        "body": ["\\rhd"]
+    },
+    "setminus": {
+        "prefix": "\\setminus",
+        "description": "Insert setminus (∖)",
+        "body": ["\\setminus"]
+    },
+    "sqcap": {
+        "prefix": "\\sqcap",
+        "description": "Insert square cap (⊓)",
+        "body": ["\\sqcap"]
+    },
+    "sqcup": {
+        "prefix": "\\sqcup",
+        "description": "Insert square cup (⊔)",
+        "body": ["\\sqcup"]
+    },
+    "sqrt[n]{x}": {
+        "prefix": "\\sqrt[]{}",
+        "description": "Insert nth root",
+        "body": ["\\sqrt[${1}]{${2}}"]
+    },
+    "sqrt": {
+        "prefix": "\\sqrt",
+        "description": "Insert square root",
+        "body": ["\\sqrt{${0}}"]
+    },
+    "star": {
+        "prefix": "\\star",
+        "description": "Insert star (⋆)",
+        "body": ["\\star"]
+    },
+    "times": {
+        "prefix": "\\times",
+        "description": "Insert times (×)",
+        "body": ["\\times"]
+    },
+    "triangledown": {
+        "prefix": "\\triangledown",
+        "description": "Insert down triangle (▽)",
+        "body": ["\\triangledown"]
+    },
+    "triangleleft": {
+        "prefix": "\\triangleleft",
+        "description": "Insert left facing triangle (◃)",
+        "body": ["\\triangleleft"]
+    },
+    "triangleright": {
+        "prefix": "\\triangleright",
+        "description": "Insert right facing triangle (▹)",
+        "body": ["\\triangleright"]
+    },
+    "unlhd": {
+        "prefix": "\\unlhd",
+        "description": "Insert unlhd or normal subgroup of or equal to (⊴)",
+        "body": ["\\unlhd"]
+    },
+    "unrhd": {
+        "prefix": "\\unrhd",
+        "description": "Insert semidirect product (⊵)",
+        "body": ["\\unrhd"]
+    },
+    "uplus": {
+        "prefix": "\\uplus",
+        "description": "Insert union with plus (⊎)",
+        "body": ["\\uplus"]
+    },
+    "vee": {
+        "prefix": "\\vee",
+        "description": "Insert vee (∨)",
+        "body": ["\\vee"]
+    },
+    "wedge": {
+        "prefix": "\\wedge",
+        "description": "Insert wedge (∧)",
+        "body": ["\\wedge"]
+    },
+    "wr": {
+        "prefix": "\\wr",
+        "description": "Insert wreath product (≀)",
+        "body": ["\\wr"]
+    },
+    "_x": {
+        "prefix": "_{}",
+        "description": "Insert subscript",
+        "body": ["_{${0}}"]
+    },
+    "^{xyz}": {
+        "prefix": "^{}",
+        "description": "Insert superscript",
+        "body": ["^{${0}}"]
+    },
+    "^x": {
+        "prefix": "^",
+        "description": "Insert superscript",
+        "body": ["^{${0}}"]
+    },
+    "^{\\circ}": {
+        "prefix": "^{\\circ}",
+        "description": "Insert superscript circle",
+        "body": ["^{\\circ}"]
+    }
+}

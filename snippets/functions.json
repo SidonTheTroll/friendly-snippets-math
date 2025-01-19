@@ -54,6 +54,11 @@
     "description": "Insert csc",
     "body": ["\\csc"]
   },
+  "infty": {
+    "prefix": "\\infty",
+    "description": "Insert infinity",
+    "body": ["\\infty"]
+  },
   "int": {
     "prefix": "\\int",
     "description": "Insert integral",
@@ -66,7 +71,7 @@
   },
   "log": {
     "prefix": "\\log",
-    "description": "Insert logarithm",
+    "description": "Insert log",
     "body": ["\\log"]
   },
   "sec": {
@@ -86,7 +91,7 @@
   },
   "sum": {
     "prefix": "\\sum",
-    "description": "Insert summation",
+    "description": "Insert sum",
     "body": ["\\sum"]
   },
   "tan": {
@@ -98,10 +103,5 @@
     "prefix": "\\tanh",
     "description": "Insert tanh",
     "body": ["\\tanh"]
-  },
-  "infty": {
-    "prefix": "\\infty",
-    "description": "Insert infinity",
-    "body": ["\\infty"]
   }
 }
