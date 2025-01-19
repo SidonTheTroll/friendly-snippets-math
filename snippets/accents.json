@@ -16,8 +16,8 @@
   },
   "Ddot":{
     "prefix":"\\ddot",
-   "description":"Add Ddot accent",
-    "body":"\ddot{${0}}" 
+    "description":"Add Ddot accent",
+    "body":"\\ddot{${0}}" 
   },
   "Dot":{
     "prefix":"\\dot",
