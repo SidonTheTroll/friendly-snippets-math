@@ -21,31 +21,31 @@
             },
             {
                 "language": "markdown",
-                "path": "./snippets/arrows.json."
+                "path": "./snippets/arrows.json"
             },
             {
                 "language": "markdown",
-                "path": "./snippets/dots.json."
+                "path": "./snippets/dots.json"
             },
             {
                 "language": "markdown",
-                "path": "./snippets/functions.json."
+                "path": "./snippets/functions.json"
             },
             {
                 "language": "markdown",
-                "path": "./snippets/misc.json."
+                "path": "./snippets/misc.json"
             },
             {
                 "language": "markdown",
-                "path": "./snippets/negations.json."
+                "path": "./snippets/negations.json"
             },
             {
                 "language": "markdown",
-                "path": "./snippets/operator.json."
+                "path": "./snippets/operator.json"
             },
             {
                 "language": "markdown",
-                "path": "./snippets/relation.json."
+                "path": "./snippets/relation.json"
             }
         ]
     }
