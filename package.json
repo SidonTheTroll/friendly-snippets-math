@@ -13,11 +13,39 @@
             },
             {
                 "language": "markdown",
+                "path": "./snippets/accents.json"
+            },
+            {
+                "language": "markdown",
                 "path": "./snippets/alphabets.json"
             },
             {
                 "language": "markdown",
-                "path": "./snippets/accents.json"
+                "path": "./snippets/arrows.json."
+            },
+            {
+                "language": "markdown",
+                "path": "./snippets/dots.json."
+            },
+            {
+                "language": "markdown",
+                "path": "./snippets/functions.json."
+            },
+            {
+                "language": "markdown",
+                "path": "./snippets/misc.json."
+            },
+            {
+                "language": "markdown",
+                "path": "./snippets/negations.json."
+            },
+            {
+                "language": "markdown",
+                "path": "./snippets/operator.json."
+            },
+            {
+                "language": "markdown",
+                "path": "./snippets/relation.json."
             }
         ]
     }
