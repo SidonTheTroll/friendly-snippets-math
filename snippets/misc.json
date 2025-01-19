@@ -1,227 +1,227 @@
 {
     "aleph": {
         "prefix": "\\aleph",
-        "description": "Insert aleph",
+        "description": "Insert aleph (ℵ)",
         "body": ["\\aleph"]
     },
     "angle": {
         "prefix": "\\angle",
-        "description": "Insert angle",
+        "description": "Insert angle (∠)",
         "body": ["\\angle"]
     },
     "backslash": {
         "prefix": "\\backslash",
-        "description": "Insert backslash",
+        "description": "Insert backslash (\\)",
         "body": ["\\backslash"]
     },
     "bigstar": {
         "prefix": "\\bigstar",
-        "description": "Insert bigstar",
+        "description": "Insert bigstar (★)",
         "body": ["\\bigstar"]
     },
     "blacksquare": {
         "prefix": "\\blacksquare",
-        "description": "Insert black square",
+        "description": "Insert black square (■)",
         "body": ["\\blacksquare"]
     },
     "bot": {
         "prefix": "\\bot",
-        "description": "Insert bot",
+        "description": "Insert bot (⊥)",
         "body": ["\\bot"]
     },
     "Box": {
         "prefix": "\\Box",
-        "description": "Insert Box",
+        "description": "Insert Box (□)",
         "body": ["\\Box"]
     },
     "checkmark": {
         "prefix": "\\checkmark",
-        "description": "Insert checkmark",
+        "description": "Insert checkmark (✓)",
         "body": ["\\checkmark"]
     },
     "clubsuit": {
         "prefix": "\\clubsuit",
-        "description": "Insert clubsuit",
+        "description": "Insert clubsuit (♣)",
         "body": ["\\clubsuit"]
     },
     "copyright": {
         "prefix": "\\copyright",
-        "description": "Insert copyright",
+        "description": "Insert copyright (©)",
         "body": ["\\copyright"]
     },
     "cup": {
         "prefix": "\\cup",
-        "description": "Insert cup",
+        "description": "Insert cup (∪)",
         "body": ["\\cup"]
     },
     "dashv": {
         "prefix": "\\dashv",
-        "description": "Insert dashv",
+        "description": "Insert dashv (⊣)",
         "body": ["\\dashv"]
     },
     "Diamond": {
         "prefix": "\\Diamond",
-        "description": "Insert Diamond",
+        "description": "Insert Diamond (◇)",
         "body": ["\\Diamond"]
     },
     "diamondsuit": {
         "prefix": "\\diamondsuit",
-        "description": "Insert diamondsuit",
+        "description": "Insert diamondsuit (♦)",
         "body": ["\\diamondsuit"]
     },
     "ell": {
         "prefix": "\\ell",
-        "description": "Insert ell",
+        "description": "Insert ell (ℓ)",
         "body": ["\\ell"]
     },
     "emptyset": {
         "prefix": "\\emptyset",
-        "description": "Insert emptyset",
+        "description": "Insert emptyset (∅)",
         "body": ["\\emptyset"]
     },
     "exists": {
         "prefix": "\\exists",
-        "description": "Insert exists",
+        "description": "Insert exists (∃)",
         "body": ["\\exists"]
     },
     "flat": {
         "prefix": "\\flat",
-        "description": "Insert flat",
+        "description": "Insert flat (♭)",
         "body": ["\\flat"]
     },
     "forall": {
         "prefix": "\\forall",
-        "description": "Insert forall",
+        "description": "Insert forall (∀)",
         "body": ["\\forall"]
     },
     "hbar": {
         "prefix": "\\hbar",
-        "description": "Insert hbar",
+        "description": "Insert hbar (ℏ)",
         "body": ["\\hbar"]
     },
     "heartsuit": {
         "prefix": "\\heartsuit",
-        "description": "Insert heartsuit",
+        "description": "Insert heartsuit (♥)",
         "body": ["\\heartsuit"]
     },
     "implies": {
         "prefix": "\\implies",
-        "description": "Insert implies",
+        "description": "Insert implies (⇒)",
         "body": ["\\implies"]
     },
     "Im": {
         "prefix": "\\Im",
-        "description": "Insert Im",
+        "description": "Insert Im (ℑ)",
         "body": ["\\Im"]
     },
     "in": {
         "prefix": "\\in",
-        "description": "Insert in",
+        "description": "Insert in (∈)",
         "body": ["\\in"]
     },
     "infty": {
         "prefix": "\\infty",
-        "description": "Insert infinity",
+        "description": "Insert infinity (∞)",
         "body": ["\\infty"]
     },
     "Join": {
         "prefix": "\\Join",
-        "description": "Insert Join",
+        "description": "Insert Join (⋈)",
         "body": ["\\Join"]
     },
     "mathbb{R}": {
         "prefix": "\\mathbb{R}",
-        "description": "Insert mathbb{R}",
+        "description": "Insert real numbers symbol (ℝ)",
         "body": ["\\mathbb{R}"]
     },
     "mho": {
         "prefix": "\\mho",
-        "description": "Insert mho",
+        "description": "Insert mho (℧)",
         "body": ["\\mho"]
     },
     "nabla": {
         "prefix": "\\nabla",
-        "description": "Insert nabla",
+        "description": "Insert nabla (∇)",
         "body": ["\\nabla"]
     },
     "neg": {
         "prefix": "\\neg",
-        "description": "Insert neg",
+        "description": "Insert negation (¬)",
         "body": ["\\neg"]
     },
     "P": {
         "prefix": "\\P",
-        "description": "Insert P",
+        "description": "Insert paragraph symbol (¶)",
         "body": ["\\P"]
     },
     "partial": {
         "prefix": "\\partial",
-        "description": "Insert partial",
+        "description": "Insert partial derivative (∂)",
         "body": ["\\partial"]
     },
     "pounds": {
         "prefix": "\\pounds",
-        "description": "Insert pounds",
+        "description": "Insert pounds (£)",
         "body": ["\\pounds"]
     },
     "prime": {
         "prefix": "\\prime",
-        "description": "Insert prime",
+        "description": "Insert prime (′)",
         "body": ["\\prime"]
     },
     "Re": {
         "prefix": "\\Re",
-        "description": "Insert Re",
+        "description": "Insert Re (ℜ)",
         "body": ["\\Re"]
     },
     "S": {
         "prefix": "\\S",
-        "description": "Insert S",
+        "description": "Insert section symbol (§)",
         "body": ["\\S"]
     },
     "sharp": {
         "prefix": "\\sharp",
-        "description": "Insert sharp",
+        "description": "Insert sharp (♯)",
         "body": ["\\sharp"]
     },
     "spadesuit": {
         "prefix": "\\spadesuit",
-        "description": "Insert spadesuit",
+        "description": "Insert spadesuit (♠)",
         "body": ["\\spadesuit"]
     },
     "square": {
         "prefix": "\\square",
-        "description": "Insert square",
+        "description": "Insert square (□)",
         "body": ["\\square"]
     },
     "surd": {
         "prefix": "\\surd",
-        "description": "Insert surd",
+        "description": "Insert square root (√)",
         "body": ["\\surd"]
     },
     "top": {
         "prefix": "\\top",
-        "description": "Insert top",
+        "description": "Insert top (⊤)",
         "body": ["\\top"]
     },
     "triangle": {
         "prefix": "\\triangle",
-        "description": "Insert triangle",
+        "description": "Insert triangle (△)",
         "body": ["\\triangle"]
     },
     "vdash": {
         "prefix": "\\vdash",
-        "description": "Insert vdash",
+        "description": "Insert vdash (⊢)",
         "body": ["\\vdash"]
     },
     "vDash": {
         "prefix": "\\vDash",
-        "description": "Insert vDash",
+        "description": "Insert vDash (⊨)",
         "body": ["\\vDash"]
     },
     "wp": {
         "prefix": "\\wp",
-        "description": "Insert wp",
+        "description": "Insert Weierstrass p (℘)",
         "body": ["\\wp"]
     }
 }
