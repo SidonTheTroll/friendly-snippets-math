@@ -59,6 +59,11 @@
         "description": "Insert dashv (⊣)",
         "body": ["\\dashv"]
     },
+    "degree": {
+        "prefix": "\\degree",
+        "description": "Insert degree (°)",
+        "body": "\\degree"
+    },
     "Diamond": {
         "prefix": "\\Diamond",
         "description": "Insert Diamond (◇)",
