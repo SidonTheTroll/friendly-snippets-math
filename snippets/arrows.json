@@ -54,6 +54,16 @@
     "description": "Insert Leftrightarrow",
     "body": ["\\Leftrightarrow"]
   },
+  "leftrightarrows": {
+    "prefix": "\\leftrightarrows",
+    "description": "Insert leftright arrows",
+    "body": ["\\leftrightarrows"]
+  },
+  "leftrightsquigarrow":{
+    "prefix": "\\leftrightsquigarrow",
+    "description": "Insert leftright squiggly arrow",
+    "body": ["\\leftrightsquigarrow"]
+  },
   "longleftarrow": {
     "prefix": "\\longleftarrow",
     "description": "Insert longleftarrow",
@@ -98,6 +108,11 @@
     "prefix": "\\nearrow",
     "description": "Insert nearrow",
     "body": ["\\nearrow"]
+  },
+  "nLeftrightarrow": {
+    "prefix": "\\nLeftrightarrow",
+    "description": "Insert not-leftright arrows",
+    "body": ["\\nLeftrightarrow"]
   },
   "nwarrow": {
     "prefix": "\\nwarrow",
@@ -178,5 +193,10 @@
     "prefix": "\\Updownarrow",
     "description": "Insert Updownarrow",
     "body": ["\\Updownarrow"]
+  },
+  "xLeftrightarrow": {
+    "prefix": "\\xLeftrightarrow",
+    "description": "Insert leftright arrows with overhead text",
+    "body": ["\\xLeftrightarrow{${0}}"]
   }
 }
