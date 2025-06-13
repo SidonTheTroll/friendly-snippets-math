@@ -1,47 +1,47 @@
 {
-  "Acute":{
-    "prefix":"\\acute",
-    "description":"Add Acute accent",
-    "body":"\\acute{${0}}"
-  },
-  "Breve":{
-    "prefix":"\\breve",
-    "description":"Add Breve accent",
-    "body":"\\breve{${0}}"
-  },
-  "Check":{
-    "prefix":"\\check",
-    "description":"Add Check accent",
-    "body":"\\check{${0}}"
-  },
-  "Ddot":{
-    "prefix":"\\ddot",
-    "description":"Add Ddot accent",
-    "body":"\\ddot{${0}}" 
-  },
-  "Dot":{
-    "prefix":"\\dot",
-    "description":"Add Dot accent",
-    "body":"\\dot{${0}}"
-  },
-  "Grave":{
-    "prefix":"\\grave",
-    "description":"Add Grave accent",
-    "body":"\\grave{${0}}"
-  },
-  "Hat":{
-    "prefix":"\\hat",
-    "description":"Add Hat accent",
-    "body":"\\hat{${0}}"
-  },
-  "Mathring":{
-    "prefix":"\\mathring",
-    "description":"Add Mathring accent",
-    "body":"\\mathring{${0}}"
-  },
-  "Tilde":{
-    "prefix":"\\tilde",
-    "description":"Add Tilde accent",
-    "body":"\\tilde{${0}}"
-  }
+    "Acute":{
+        "prefix":"\\acute",
+        "description":"Add Acute accent",
+        "body":"\\acute{${0}}"
+    },
+    "Breve":{
+        "prefix":"\\breve",
+        "description":"Add Breve accent",
+        "body":"\\breve{${0}}"
+    },
+    "Check":{
+        "prefix":"\\check",
+        "description":"Add Check accent",
+        "body":"\\check{${0}}"
+    },
+    "Ddot":{
+        "prefix":"\\ddot",
+        "description":"Add Ddot accent",
+        "body":"\\ddot{${0}}" 
+    },
+    "Dot":{
+        "prefix":"\\dot",
+        "description":"Add Dot accent",
+        "body":"\\dot{${0}}"
+    },
+    "Grave":{
+        "prefix":"\\grave",
+        "description":"Add Grave accent",
+        "body":"\\grave{${0}}"
+    },
+    "Hat":{
+        "prefix":"\\hat",
+        "description":"Add Hat accent",
+        "body":"\\hat{${0}}"
+    },
+    "Mathring":{
+        "prefix":"\\mathring",
+        "description":"Add Mathring accent",
+        "body":"\\mathring{${0}}"
+    },
+    "Tilde":{
+        "prefix":"\\tilde",
+        "description":"Add Tilde accent",
+        "body":"\\tilde{${0}}"
+    }
 }

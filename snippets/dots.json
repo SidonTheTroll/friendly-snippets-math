@@ -1,27 +1,27 @@
 {
-  "cdot":{
-    "prefix":"\\cdot",
-    "description":"Insert cdot",
-    "body":["\\cdot"]
-  },
-  "cdots":{
-    "prefix":"\\cdots",
-    "description":"Insert cdots",
-    "body":["\\cdots"]
-  },
-  "ddots":{
-    "prefix":"\\ddots",
-    "description":"Insert ddots",
-    "body":["\\ddots"]
-  },
-  "dots":{
-    "prefix":"\\dots",
-    "description":"Insert dots",
-    "body":["\\dots"]
-  },
-  "vdots":{
-    "prefix":"\\vdots",
-    "description":"Insert vdots",
-    "body":["\\vdots"]
-  }
+    "cdot": {
+        "prefix": "\\cdot",
+        "description": "Insert cdot (⋅)",
+        "body": ["\\cdot"]
+    },
+    "cdots": {
+        "prefix": "\\cdots",
+        "description": "Insert cdots (⋯)",
+        "body": ["\\cdots"]
+    },
+    "ddots": {
+        "prefix": "\\ddots",
+        "description": "Insert ddots (⋱)",
+        "body": ["\\ddots"]
+    },
+    "dots": {
+        "prefix": "\\dots",
+        "description": "Insert dots (…)",
+        "body": ["\\dots"]
+    },
+    "vdots": {
+        "prefix": "\\vdots",
+        "description": "Insert vdots (⋮)",
+        "body": ["\\vdots"]
+    }
 }
