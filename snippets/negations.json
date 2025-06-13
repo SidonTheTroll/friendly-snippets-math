@@ -1,112 +1,122 @@
 {
-  "gneq": {
-    "prefix": "\\gneq",
-    "description": "Insert gneq (⪈)",
-    "body": ["\\gneq"]
-  },
-  "gneqq": {
-    "prefix": "\\gneqq",
-    "description": "Insert gneqq (≩)",
-    "body": ["\\gneqq"]
-  },
-  "lneq": {
-    "prefix": "\\lneq",
-    "description": "Insert lneq (⪇)",
-    "body": ["\\lneq"]
-  },
-  "lneqq": {
-    "prefix": "\\lneqq",
-    "description": "Insert lneqq (≨)",
-    "body": ["\\lneqq"]
-  },
-  "lnsim": {
-    "prefix": "\\lnsim",
-    "description": "Insert lnsim (⋦)",
-    "body": ["\\lnsim"]
-  },
-  "ncong": {
-    "prefix": "\\ncong",
-    "description": "Insert ncong (≇)",
-    "body": ["\\ncong"]
-  },
-  "ngtr": {
-    "prefix": "\\ngtr",
-    "description": "Insert ngtr (≯)",
-    "body": ["\\ngtr"]
-  },
-  "nleq": {
-    "prefix": "\\nleq",
-    "description": "Insert nleq (≰)",
-    "body": ["\\nleq"]
-  },
-  "nless": {
-    "prefix": "\\nless",
-    "description": "Insert nless (≮)",
-    "body": ["\\nless"]
-  },
-  "nmid": {
-    "prefix": "\\nmid",
-    "description": "Insert nmid (∤)",
-    "body": ["\\nmid"]
-  },
-  "notapprox": {
-    "prefix": "\\not\\approx",
-    "description": "Insert not approx (≉)",
-    "body": ["\\not\\approx"]
-  },
-  "notcong": {
-    "prefix": "\\not\\cong",
-    "description": "Insert not congruent (≢)",
-    "body": ["\\not\\cong"]
-  },
-  "notequiv": {
-    "prefix": "\\not\\equiv",
-    "description": "Insert not equivalent (≢)",
-    "body": ["\\not\\equiv"]
-  },
-  "notge": {
-    "prefix": "\\not\\ge",
-    "description": "Insert not greater than or equal to (≱)",
-    "body": ["\\not\\ge"]
-  },
-  "notle": {
-    "prefix": "\\not\\le",
-    "description": "Insert not less than or equal to (≰)",
-    "body": ["\\not\\le"]
-  },
-  "notparallel": {
-    "prefix": "\\not\\parallel",
-    "description": "Insert not parallel (∦)",
-    "body": ["\\not\\parallel"]
-  },
-  "notsim": {
-    "prefix": "\\not\\sim",
-    "description": "Insert not similar to (≁)",
-    "body": ["\\not\\sim"]
-  },
-  "not<": {
-    "prefix": "\\not<",
-    "description": "Insert not less than (≮)",
-    "body": ["\\not<"]
-  },
-  "not=": {
-    "prefix": "\\not=",
-    "description": "Insert not equal (≠)",
-    "body": ["\\not="]
-  },
-  "not>": {
-    "prefix": "\\not>",
-    "description": "Insert not greater than (≯)",
-    "body": ["\\not>"]
-  },
-  "nparallel": {
-    "prefix": "\\nparallel",
-    "description": "Insert nparallel (∦)",
-    "body": ["\\nparallel"]
-  },
-  "nsim": {
-    "prefix": "\\nsim",
-    "description": "Insert nsim (≁)",
-    "body": ["\\nsim"]
-  }
+    "because": {
+        "prefix": "\\because",
+        "description": "Insert because (∵)",
+        "body": ["\\because"]
+    },
+    "gneq": {
+        "prefix": "\\gneq",
+        "description": "Insert gneq (⪈)",
+        "body": ["\\gneq"]
+    },
+    "gneqq": {
+        "prefix": "\\gneqq",
+        "description": "Insert gneqq (≩)",
+        "body": ["\\gneqq"]
+    },
+    "lneq": {
+        "prefix": "\\lneq",
+        "description": "Insert lneq (⪇)",
+        "body": ["\\lneq"]
+    },
+    "lneqq": {
+        "prefix": "\\lneqq",
+        "description": "Insert lneqq (≨)",
+        "body": ["\\lneqq"]
+    },
+    "lnsim": {
+        "prefix": "\\lnsim",
+        "description": "Insert lnsim (⋦)",
+        "body": ["\\lnsim"]
+    },
+    "ncong": {
+        "prefix": "\\ncong",
+        "description": "Insert ncong (≇)",
+        "body": ["\\ncong"]
+    },
+    "ngtr": {
+        "prefix": "\\ngtr",
+        "description": "Insert ngtr (≯)",
+        "body": ["\\ngtr"]
+    },
+    "nleq": {
+        "prefix": "\\nleq",
+        "description": "Insert nleq (≰)",
+        "body": ["\\nleq"]
+    },
+    "nless": {
+        "prefix": "\\nless",
+        "description": "Insert nless (≮)",
+        "body": ["\\nless"]
+    },
+    "nmid": {
+        "prefix": "\\nmid",
+        "description": "Insert nmid (∤)",
+        "body": ["\\nmid"]
+    },
+    "notapprox": {
+        "prefix": "\\not\\approx",
+        "description": "Insert not approx (≉)",
+        "body": ["\\not\\approx"]
+    },
+    "notcong": {
+        "prefix": "\\not\\cong",
+        "description": "Insert not congruent (≢)",
+        "body": ["\\not\\cong"]
+    },
+    "notequiv": {
+        "prefix": "\\not\\equiv",
+        "description": "Insert not equivalent (≢)",
+        "body": ["\\not\\equiv"]
+    },
+    "notge": {
+        "prefix": "\\not\\ge",
+        "description": "Insert not greater than or equal to (≱)",
+        "body": ["\\not\\ge"]
+    },
+    "notle": {
+        "prefix": "\\not\\le",
+        "description": "Insert not less than or equal to (≰)",
+        "body": ["\\not\\le"]
+    },
+    "notparallel": {
+        "prefix": "\\not\\parallel",
+        "description": "Insert not parallel (∦)",
+        "body": ["\\not\\parallel"]
+    },
+    "notsim": {
+        "prefix": "\\not\\sim",
+        "description": "Insert not similar to (≁)",
+        "body": ["\\not\\sim"]
+    },
+    "not<": {
+        "prefix": "\\not<",
+        "description": "Insert not less than (≮)",
+        "body": ["\\not<"]
+    },
+    "not=": {
+        "prefix": "\\not=",
+        "description": "Insert not equal (≠)",
+        "body": ["\\not="]
+    },
+    "not>": {
+        "prefix": "\\not>",
+        "description": "Insert not greater than (≯)",
+        "body": ["\\not>"]
+    },
+    "nparallel": {
+        "prefix": "\\nparallel",
+        "description": "Insert nparallel (∦)",
+        "body": ["\\nparallel"]
+    },
+    "nsim": {
+        "prefix": "\\nsim",
+        "description": "Insert nsim (≁)",
+        "body": ["\\nsim"]
+    },
+    "therefore": {
+        "prefix": "\\therefore",
+        "description": "Insert therefore (∴)",
+        "body": ["\\therefore"]
+    }
 }
