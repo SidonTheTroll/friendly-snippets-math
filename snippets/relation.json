@@ -84,6 +84,16 @@
         "description": "Insert contains as member (∋)",
         "body": ["\\ni"]
     },
+    "oslash": {
+        "prefix": "\\oslash",
+        "description": "Insert slash inside circle (⊘)",
+        "body": ["\\oslash"]
+    },
+    "overset": {
+        "prefix": "\\overset",
+        "description": "Insert text over a function or word/sentence",
+        "body": ["\\overset{${1}}{${2}}"]
+    },
     "parallel": {
         "prefix": "\\parallel",
         "description": "Insert parallel to (∥)",
@@ -174,9 +184,9 @@
         "description": "Insert vertical dash (⊢)",
         "body": ["\\vdash"]
     },
-    "oslash": {
-        "prefix": "\\oslash",
-        "description": "Insert slash inside circle (⊘)",
-        "body": ["\\oslash"]
+    "underset": {
+        "prefix": "\\underset",
+        "description": "Insert text under a function or word/sentence",
+        "body": ["\\underset{${1}}{${2}}"]
     }
 }
