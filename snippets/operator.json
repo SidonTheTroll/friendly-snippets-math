@@ -212,7 +212,7 @@
     "^{xyz}": {
         "prefix": "^{}",
         "description": "Insert superscript",
-        "body": ["^{${0}} "]
+        "body": ["^{${0}}"]
     },
     "^x": {
         "prefix": "^",
