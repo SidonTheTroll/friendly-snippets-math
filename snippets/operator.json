@@ -217,11 +217,11 @@
     "^x": {
         "prefix": "^",
         "description": "Insert superscript",
-        "body": ["^{${0}} "]
+        "body": ["^{${0}}"]
     },
     "^{\\circ}": {
         "prefix": "^{\\circ}",
         "description": "Insert superscript circle",
-        "body": ["^{\\circ} "]
+        "body": ["^{\\circ}"]
     }
 }
