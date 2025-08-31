@@ -142,12 +142,12 @@
     "sqrt[n]{x}": {
         "prefix": "\\sqrt[]{}",
         "description": "Insert nth root",
-        "body": ["\\sqrt[${1}]{${2}} "]
+        "body": ["\\sqrt[${1}]{${2}}"]
     },
     "sqrt": {
         "prefix": "\\sqrt",
         "description": "Insert square root",
-        "body": ["\\sqrt{${0}} "]
+        "body": ["\\sqrt{${0}}"]
     },
     "star": {
         "prefix": "\\star",
