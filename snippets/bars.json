@@ -1,0 +1,28 @@
+{
+    "bar": {
+        "prefix": "\\bar",
+        "description": "Add a short bar",
+        "body": ["\\bar{${0}}"]
+    },
+    "overline": {
+        "prefix": "\\overline", 
+        "description": "Add long bar, spans expression",
+        "body": ["\\overline{${0}}"]
+    },
+    "underline": {
+        "prefix": "\\underline", 
+        "description": "Add long bar, spans expression",
+        "body": ["\\underline{${0}}"]
+    },
+    "overbrace": {
+        "prefix": "\\overbrace", 
+        "description": "Add curly bar above", 
+        "body": ["\\overbrace{${0}}"]
+    },
+    "underbrace": {
+        "prefix": "\\underbrace",
+        "description": "Add curly bar below",
+        "body": ["\\underbrace{${0}}"]
+    }
+
+}

@@ -25,6 +25,10 @@
             },
             {
                 "language": "markdown",
+                "path": "./snippets/bars.json"
+            },
+            {
+                "language": "markdown",
                 "path": "./snippets/dots.json"
             },
             {
