@@ -2,202 +2,202 @@
     "downarrow": {
         "prefix": "\\downarrow",
         "description": "Insert downarrow (↓)",
-        "body": ["\\downarrow"]
+        "body": ["\\downarrow "]
     },
     "Downarrow": {
         "prefix": "\\Downarrow",
         "description": "Insert Downarrow (⇓)",
-        "body": ["\\Downarrow"]
+        "body": ["\\Downarrow  "]
     },
     "gets": {
         "prefix": "\\gets",
         "description": "Insert gets (←)",
-        "body": ["\\gets"]
+        "body": ["\\gets  "]
     },
     "hookleftarrow": {
         "prefix": "\\hookleftarrow",
         "description": "Insert hookleftarrow (↩)",
-        "body": ["\\hookleftarrow"]
+        "body": ["\\hookleftarrow "]
     },
     "hookrightarrow": {
         "prefix": "\\hookrightarrow",
         "description": "Insert hookrightarrow (↪)",
-        "body": ["\\hookrightarrow"]
+        "body": ["\\hookrightarrow "]
     },
     "leadsto": {
         "prefix": "\\leadsto",
         "description": "Insert leadsto (⤳)",
-        "body": ["\\leadsto"]
+        "body": ["\\leadsto "]
     },
     "leftarrow": {
         "prefix": "\\leftarrow",
         "description": "Insert leftarrow (←)",
-        "body": ["\\leftarrow"]
+        "body": ["\\leftarrow "]
     },
     "Leftarrow": {
         "prefix": "\\Leftarrow",
         "description": "Insert Leftarrow (⇐)",
-        "body": ["\\Leftarrow"]
+        "body": ["\\Leftarrow "]
     },
     "leftharpoonup": {
         "prefix": "\\leftharpoonup",
         "description": "Insert leftharpoonup (↼)",
-        "body": ["\\leftharpoonup"]
+        "body": ["\\leftharpoonup "]
     },
     "leftrightarrow": {
         "prefix": "\\leftrightarrow",
         "description": "Insert leftrightarrow (↔)",
-        "body": ["\\leftrightarrow"]
+        "body": ["\\leftrightarrow "]
     },
     "Leftrightarrow": {
         "prefix": "\\Leftrightarrow",
         "description": "Insert Leftrightarrow (⇔)",
-        "body": ["\\Leftrightarrow"]
+        "body": ["\\Leftrightarrow "]
     },
     "leftrightarrows": {
         "prefix": "\\leftrightarrows",
         "description": "Insert leftrightarrows (⇆)",
-        "body": ["\\leftrightarrows"]
+        "body": ["\\leftrightarrows "]
     },
     "leftrightsquigarrow": {
         "prefix": "\\leftrightsquigarrow",
         "description": "Insert leftrightsquigarrow (⇝)",
-        "body": ["\\leftrightsquigarrow"]
+        "body": ["\\leftrightsquigarrow "]
     },
     "longleftarrow": {
         "prefix": "\\longleftarrow",
         "description": "Insert longleftarrow (⟵)",
-        "body": ["\\longleftarrow"]
+        "body": ["\\longleftarrow "]
     },
     "Longleftarrow": {
         "prefix": "\\Longleftarrow",
         "description": "Insert Longleftarrow (⟸)",
-        "body": ["\\Longleftarrow"]
+        "body": ["\\Longleftarrow "]
     },
     "longleftrightarrow": {
         "prefix": "\\longleftrightarrow",
         "description": "Insert longleftrightarrow (⟷)",
-        "body": ["\\longleftrightarrow"]
+        "body": ["\\longleftrightarrow "]
     },
     "Longleftrightarrow": {
         "prefix": "\\Longleftrightarrow",
         "description": "Insert Longleftrightarrow (⟺)",
-        "body": ["\\Longleftrightarrow"]
+        "body": ["\\Longleftrightarrow "]
     },
     "longmapsto": {
         "prefix": "\\longmapsto",
         "description": "Insert longmapsto (⟼)",
-        "body": ["\\longmapsto"]
+        "body": ["\\longmapsto "]
     },
     "longrightarrow": {
         "prefix": "\\longrightarrow",
         "description": "Insert longrightarrow (⟶)",
-        "body": ["\\longrightarrow"]
+        "body": ["\\longrightarrow "]
     },
     "Longrightarrow": {
         "prefix": "\\Longrightarrow",
         "description": "Insert Longrightarrow (⇒)",
-        "body": ["\\Longrightarrow"]
+        "body": ["\\Longrightarrow "]
     },
     "mapsto": {
         "prefix": "\\mapsto",
         "description": "Insert mapsto (↦)",
-        "body": ["\\mapsto"]
+        "body": ["\\mapsto "]
     },
     "nearrow": {
         "prefix": "\\nearrow",
         "description": "Insert nearrow (↗)",
-        "body": ["\\nearrow"]
+        "body": ["\\nearrow "]
     },
     "nLeftrightarrow": {
         "prefix": "\\nLeftrightarrow",
         "description": "Insert nLeftrightarrow (⇎)",
-        "body": ["\\nLeftrightarrow"]
+        "body": ["\\nLeftrightarrow "]
     },
     "nwarrow": {
         "prefix": "\\nwarrow",
         "description": "Insert nwarrow (↖)",
-        "body": ["\\nwarrow"]
+        "body": ["\\nwarrow "]
     },
     "overleftarrow": {
         "prefix": "\\overleftarrow",
         "description": "Insert overleftarrow (⬅ over text)",
-        "body": ["\\overleftarrow{${0}}"]
+        "body": ["\\overleftarrow{${0}} "]
     },
     "overleftrightarrow": {
         "prefix": "\\overleftrightarrow",
         "description": "Insert overleftrightarrow (↔ over text)",
-        "body": ["\\overleftrightarrow{${0}}"]
+        "body": ["\\overleftrightarrow{${0}} "]
     },
     "overrightarrow": {
         "prefix": "\\overrightarrow",
         "description": "Insert overrightarrow (➝ over text)",
-        "body": ["\\overrightarrow{${0}}"]
+        "body": ["\\overrightarrow{${0}} "]
     },
     "rightarrow": {
         "prefix": "\\rightarrow",
         "description": "Insert rightarrow (→)",
-        "body": ["\\rightarrow"]
+        "body": ["\\rightarrow "]
     },
     "Rightarrow": {
         "prefix": "\\Rightarrow",
         "description": "Insert Rightarrow (⇒)",
-        "body": ["\\Rightarrow"]
+        "body": ["\\Rightarrow "]
     },
     "rightharpoondown": {
         "prefix": "\\rightharpoondown",
         "description": "Insert rightharpoondown (⇁)",
-        "body": ["\\rightharpoondown"]
+        "body": ["\\rightharpoondown "]
     },
     "rightharpoonup": {
         "prefix": "\\rightharpoonup",
         "description": "Insert rightharpoonup (⇀)",
-        "body": ["\\rightharpoonup"]
+        "body": ["\\rightharpoonup "]
     },
     "rightleftharpoons": {
         "prefix": "\\rightleftharpoons",
         "description": "Insert rightleftharpoons (⇌)",
-        "body": ["\\rightleftharpoons"]
+        "body": ["\\rightleftharpoons "]
     },
     "searrow": {
         "prefix": "\\searrow",
         "description": "Insert searrow (↘)",
-        "body": ["\\searrow"]
+        "body": ["\\searrow "]
     },
     "swarrow": {
         "prefix": "\\swarrow",
         "description": "Insert swarrow (↙)",
-        "body": ["\\swarrow"]
+        "body": ["\\swarrow "]
     },
     "to": {
         "prefix": "\\to",
         "description": "Insert to (→)",
-        "body": ["\\to"]
+        "body": ["\\to "]
     },
     "uparrow": {
         "prefix": "\\uparrow",
         "description": "Insert uparrow (↑)",
-        "body": ["\\uparrow"]
+        "body": ["\\uparrow "]
     },
     "Uparrow": {
         "prefix": "\\Uparrow",
         "description": "Insert Uparrow (⇑)",
-        "body": ["\\Uparrow"]
+        "body": ["\\Uparrow "]
     },
     "updownarrow": {
         "prefix": "\\updownarrow",
         "description": "Insert updownarrow (↕)",
-        "body": ["\\updownarrow"]
+        "body": ["\\updownarrow "]
     },
     "Updownarrow": {
         "prefix": "\\Updownarrow",
         "description": "Insert Updownarrow (⇕)",
-        "body": ["\\Updownarrow"]
+        "body": ["\\Updownarrow "]
     },
     "xLeftrightarrow": {
         "prefix": "\\xLeftrightarrow",
         "description": "Insert xLeftrightarrow with label (⇔ )",
-        "body": ["\\xLeftrightarrow{${0}}"]
+        "body": ["\\xLeftrightarrow{${0}} "]
     }
 }
 

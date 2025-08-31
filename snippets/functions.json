@@ -2,107 +2,107 @@
     "arccos": {
         "prefix": "\\arccos",
         "description": "Insert arccos",
-        "body": ["\\arccos"]
+        "body": ["\\arccos "]
     },
     "arccot": {
         "prefix": "\\arccot",
         "description": "Insert arccot",
-        "body": ["\\arccot"]
+        "body": ["\\arccot "]
     },
     "arccsc": {
         "prefix": "\\arccsc",
         "description": "Insert arccsc",
-        "body": ["\\arccsc"]
+        "body": ["\\arccsc "]
     },
     "arcsec": {
         "prefix": "\\arcsec",
         "description": "Insert arcsec",
-        "body": ["\\arcsec"]
+        "body": ["\\arcsec "]
     },
     "arcsin": {
         "prefix": "\\arcsin",
         "description": "Insert arcsin",
-        "body": ["\\arcsin"]
+        "body": ["\\arcsin "]
     },
     "arctan": {
         "prefix": "\\arctan",
         "description": "Insert arctan",
-        "body": ["\\arctan"]
+        "body": ["\\arctan "]
     },
     "cos": {
         "prefix": "\\cos",
         "description": "Insert cos",
-        "body": ["\\cos"]
+        "body": ["\\cos "]
     },
     "cosh": {
         "prefix": "\\cosh",
         "description": "Insert cosh",
-        "body": ["\\cosh"]
+        "body": ["\\cosh "]
     },
     "cot": {
         "prefix": "\\cot",
         "description": "Insert cot",
-        "body": ["\\cot"]
+        "body": ["\\cot "]
     },
     "coth": {
         "prefix": "\\coth",
         "description": "Insert coth",
-        "body": ["\\coth"]
+        "body": ["\\coth "]
     },
     "csc": {
         "prefix": "\\csc",
         "description": "Insert csc",
-        "body": ["\\csc"]
+        "body": ["\\csc "]
     },
     "infty": {
         "prefix": "\\infty",
         "description": "Insert infinity",
-        "body": ["\\infty"]
+        "body": ["\\infty "]
     },
     "int": {
         "prefix": "\\int",
         "description": "Insert integral",
-        "body": ["\\int"]
+        "body": ["\\int "]
     },
     "lim": {
         "prefix": "\\lim",
         "description": "Insert limit",
-        "body": ["\\lim"]
+        "body": ["\\lim "]
     },
     "log": {
         "prefix": "\\log",
         "description": "Insert log",
-        "body": ["\\log"]
+        "body": ["\\log "]
     },
     "sec": {
         "prefix": "\\sec",
         "description": "Insert sec",
-        "body": ["\\sec"]
+        "body": ["\\sec "]
     },
     "sin": {
         "prefix": "\\sin",
         "description": "Insert sin",
-        "body": ["\\sin"]
+        "body": ["\\sin "]
     },
     "sinh": {
         "prefix": "\\sinh",
         "description": "Insert sinh",
-        "body": ["\\sinh"]
+        "body": ["\\sinh "]
     },
     "sum": {
         "prefix": "\\sum",
         "description": "Insert sum",
-        "body": ["\\sum"]
+        "body": ["\\sum "]
     },
     "tan": {
         "prefix": "\\tan",
         "description": "Insert tan",
-        "body": ["\\tan"]
+        "body": ["\\tan "]
     },
     "tanh": {
         "prefix": "\\tanh",
         "description": "Insert tanh",
-        "body": ["\\tanh"]
+        "body": ["\\tanh "]
     }
 }
 
