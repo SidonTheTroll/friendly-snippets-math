@@ -92,7 +92,7 @@
     "overset": {
         "prefix": "\\overset",
         "description": "Insert text over a function or word/sentence",
-        "body": ["\\overset{${1}}{${2}} "]
+        "body": ["\\overset{${1}}{${2}}"]
     },
     "parallel": {
         "prefix": "\\parallel",
@@ -187,6 +187,6 @@
     "underset": {
         "prefix": "\\underset",
         "description": "Insert text under a function or word/sentence",
-        "body": ["\\underset{${1}}{${2}} "]
+        "body": ["\\underset{${1}}{${2}}"]
     }
 }
