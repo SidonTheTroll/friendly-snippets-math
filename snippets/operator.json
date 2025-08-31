@@ -207,7 +207,7 @@
     "_x": {
         "prefix": "_{}",
         "description": "Insert subscript",
-        "body": ["_{${0}} "]
+        "body": ["_{${0}}"]
     },
     "^{xyz}": {
         "prefix": "^{}",
