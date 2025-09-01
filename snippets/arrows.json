@@ -7,12 +7,12 @@
     "Downarrow": {
         "prefix": "\\Downarrow",
         "description": "Insert Downarrow (⇓)",
-        "body": ["\\Downarrow  "]
+        "body": ["\\Downarrow "]
     },
     "gets": {
         "prefix": "\\gets",
         "description": "Insert gets (←)",
-        "body": ["\\gets  "]
+        "body": ["\\gets "]
     },
     "hookleftarrow": {
         "prefix": "\\hookleftarrow",
@@ -122,17 +122,17 @@
     "overleftarrow": {
         "prefix": "\\overleftarrow",
         "description": "Insert overleftarrow (⬅ over text)",
-        "body": ["\\overleftarrow{${0}} "]
+        "body": ["\\overleftarrow{${0}}"]
     },
     "overleftrightarrow": {
         "prefix": "\\overleftrightarrow",
         "description": "Insert overleftrightarrow (↔ over text)",
-        "body": ["\\overleftrightarrow{${0}} "]
+        "body": ["\\overleftrightarrow{${0}}"]
     },
     "overrightarrow": {
         "prefix": "\\overrightarrow",
         "description": "Insert overrightarrow (➝ over text)",
-        "body": ["\\overrightarrow{${0}} "]
+        "body": ["\\overrightarrow{${0}}"]
     },
     "rightarrow": {
         "prefix": "\\rightarrow",
